@@ -5,16 +5,6 @@
 
 Este proyecto forma parte de un desafío del programa de formación de Alura Latam. El objetivo fue analizar y comparar el rendimiento de cuatro tiendas virtuales con base en sus ventas, categorías, satisfacción de clientes y logística.
 
-## 📌 Objetivo
-
-Ayudar al Sr. Juan a decidir en cuál tienda debería vender sus productos, considerando:
-
-- Ingresos totales
-- Categorías de productos más y menos vendidos
-- Calificaciones promedio de clientes
-- Productos más y menos vendidos
-- Costos de envío promedio
-
 ---
 
 ## 📊 Análisis Realizados
@@ -39,22 +29,23 @@ Se utilizaron gráficos de barras, líneas y dispersión para representar:
 
 ---
 
-## ✅ Conclusión
+📝 Recomendación final
+Después de analizar todas las métricas clave, la tienda recomendada para el Sr. Juan es Tienda 1, debido a:
 
-Tras el análisis de todos los factores, se recomienda que el Sr. Juan comercialice sus productos en **Tienda 1**, ya que:
+- Mayor ingreso total
+- Alta variedad y rotación de productos vendidos
+- Buenas calificaciones por parte de los clientes
+- Costos de envío dentro del promedio
 
-- Tiene los mejores ingresos,
-- Excelente rotación de productos,
-- Altas calificaciones de los clientes,
-- Y costos logísticos equilibrados.
 
----
+Puedes leer el análisis completo dentro del archivo AluraStore.ipynb, sección “Informe final”.
 
 ## 📂 Archivos del proyecto
+# 📦 AluraStore-DesafioFinal
 
-- `alura_store_analysis.ipynb`: Notebook con todo el análisis.
-- Imágenes: Visualizaciones generadas durante el análisis.
-- `README.md`: Este documento.
+├── 📁 data/              # (Si se incluyen archivos .csv o Excel)
+├── 📄 AluraStore.ipynb   # Notebook principal del análisis
+├── 📄 README.md          # Este archivo
 
 ---
 
